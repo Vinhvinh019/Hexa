@@ -1635,7 +1635,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 270455604}
   m_LocalRotation: {x: -0, y: -0, z: 0.5, w: 0.8660254}
-  m_LocalPosition: {x: 0.39, y: 0.722, z: -2}
+  m_LocalPosition: {x: 0.406, y: 0.75, z: -2}
   m_LocalScale: {x: 0.099999994, y: 1, z: 4}
   m_Children: []
   m_Father: {fileID: 1788426208}
@@ -3655,7 +3655,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 4e-45, z: 2.69e-42, w: 1.05e-43}
+  m_BoundingSphereOverride: {x: 0, y: 2.0089e-41, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -5542,7 +5542,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 3e-45, z: 1.32e-42, w: 1.02e-43}
+  m_BoundingSphereOverride: {x: 9.8685525e+17, y: 1.3563128e-19, z: 3.0972774e+27,
+    w: 1.9272675e+31}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -6929,7 +6930,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7aea42019de6f36479292b362e28d43d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Turns: 5
+  Turns: 20
   Scores: 0
   gameOver: {fileID: 1631982769}
   touchControl: {fileID: 1588825245}
@@ -7977,7 +7978,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1988041901}
   m_LocalRotation: {x: -0, y: -0, z: -0.5, w: 0.8660254}
-  m_LocalPosition: {x: -0.394, y: 0.73, z: -2}
+  m_LocalPosition: {x: -0.412, y: 0.762, z: -2}
   m_LocalScale: {x: 0.099999994, y: 1, z: 4}
   m_Children: []
   m_Father: {fileID: 1788426208}
